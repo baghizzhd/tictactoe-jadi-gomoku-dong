@@ -25,106 +25,13 @@ namespace tictactoe
         {
             Application.Exit();
         }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void changeimg(PictureBox px, Label l)
         {
-            t++;
-            changeimg(pictureBox1, label2);
-        }
-
-        private void pictureBox2_Click(object sender, EventArgs e)
-        {
-            t++;
-
-
-            changeimg(pictureBox2, label2);
-            
-            
-        }
-
-        private void pictureBox3_Click(object sender, EventArgs e)
-        {
-            t++;
-
-            
-
-            changeimg(pictureBox3,label2);
-           
-            
-        }
-
-        private void pictureBox4_Click(object sender, EventArgs e)
-        {
-
-            t++;
-
-            changeimg(pictureBox4, label2);
-           
-            
-        }
-
-        private void pictureBox5_Click(object sender, EventArgs e)
-        {
-            t++;
-
-          
-
-
-            changeimg(pictureBox5, label2);
-
-        }
-
-        private void pictureBox6_Click(object sender, EventArgs e)
-        {
-            t++;
-
-
-
-
-            changeimg(pictureBox6, label2);
-           
-        }
-
-        private void pictureBox7_Click(object sender, EventArgs e)
-        {
-            t++;
-
-            
-
-
-            changeimg(pictureBox7, label2);
-
-
-        }
-
-        private void pictureBox8_Click(object sender, EventArgs e)
-        {
-            t++;
-
-           
-            changeimg(pictureBox8, label2);
-        }
-
-        private void pictureBox9_Click(object sender, EventArgs e)
-        {
-            t++;
-
-            changeimg(pictureBox9, label2);
-           
-            
-           
-        }
-
-
-
-
-        private void changeimg(PictureBox px,Label l)
-        {
-            if (x==true)
+            if (x == true)
             {
                 px.Image = Image.FromFile(@"D:\assigment\tictactoe\tictactoe\Resources\6965728_preview.png");
                 x = false;
-                l.Text =gameform.name2 ;
+                l.Text = gameform.name2;
 
             }
             else
@@ -136,6 +43,201 @@ namespace tictactoe
             }
             px.Enabled = false;
 
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox0_0, label2);
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            t++;
+
+
+            changeimg(pictureBox0_1, label2);
+            
+            
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            t++;
+
+            
+
+            changeimg(pictureBox0_2,label2);
+           
+            
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+
+            t++;
+
+            changeimg(pictureBox0_3, label2);
+           
+            
+        }
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox0_4, label2);
+        }
+
+        private void pictureBox6_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox0_5, label2);    
+        }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox0_6, label2);
+        }
+
+        private void pictureBox8_Click(object sender, EventArgs e)
+        {
+            t++; 
+            changeimg(pictureBox0_7, label2);
+        }
+
+        private void pictureBox9_Click(object sender, EventArgs e)
+        {
+            t++;
+
+            changeimg(pictureBox0_8, label2);
+        }
+
+
+        private void pictureBox0_9_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox0_9, label2);
+        }
+
+        private void pictureBox0_10_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox0_10, label2);
+        }
+
+        private void pictureBox0_11_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox0_11, label2);
+        }
+
+        private void pictureBox0_12_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox0_12, label2);
+        }
+
+        private void pictureBox0_13_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox0_13, label2);
+        }
+
+        private void pictureBox0_14_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox0_14, label2);
+        }
+
+        private void pictureBox1_0_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox1_0, label2);
+        }
+
+        private void pictureBox1_1_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox1_1, label2);
+        }
+
+        private void pictureBox1_2_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox1_2, label2);
+        }
+
+        private void pictureBox1_3_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox1_3, label2);
+        }
+
+        private void pictureBox1_4_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox1_4, label2);
+        }
+
+        private void pictureBox1_5_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox1_5, label2);
+        }
+
+        private void pictureBox1_6_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox1_6, label2);
+        }
+
+        private void pictureBox1_7_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox1_7, label2);
+        }
+
+        private void pictureBox1_8_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox1_8, label2);
+        }
+
+        private void pictureBox1_9_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox1_9, label2);
+        }
+
+        private void pictureBox1_10_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox1_10, label2);
+        }
+
+        private void pictureBox1_11_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox1_11, label2);
+        }
+
+        private void pictureBox1_12_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox1_12, label2);
+        }
+
+        private void pictureBox1_13_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox1_13, label2);
+        }
+
+        private void pictureBox1_14_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox1_14, label2);
         }
 
 

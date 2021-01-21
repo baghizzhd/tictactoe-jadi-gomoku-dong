@@ -1156,6 +1156,276 @@ namespace tictactoe
             changeimg(pictureBox11_14, label2);
         }
 
+        private void pictureBox12_0_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox12_0, label2);
+        }
+
+        private void pictureBox12_1_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox12_1, label2);
+        }
+
+        private void pictureBox12_2_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox12_2, label2);
+        }
+
+        private void pictureBox12_3_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox12_3, label2);
+        }
+
+        private void pictureBox12_4_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox12_4, label2);
+        }
+
+        private void pictureBox12_5_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox12_5, label2);
+        }
+
+        private void pictureBox12_6_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox12_6, label2);
+        }
+
+        private void pictureBox12_7_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox12_7, label2);
+        }
+
+        private void pictureBox12_8_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox12_8, label2);
+        }
+
+        private void pictureBox12_9_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox12_9, label2);
+        }
+
+        private void pictureBox12_10_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox12_10, label2);
+        }
+
+        private void pictureBox12_11_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox12_11, label2);
+        }
+
+        private void pictureBox12_12_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox12_12, label2);
+        }
+
+        private void pictureBox12_13_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox12_13, label2);
+        }
+
+        private void pictureBox12_14_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox12_14, label2);
+        }
+
+        private void pictureBox13_0_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox13_0, label2);
+        }
+
+        private void pictureBox13_1_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox13_1, label2);
+        }
+
+        private void pictureBox13_2_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox13_2, label2);
+        }
+
+        private void pictureBox13_3_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox13_3, label2);
+        }
+
+        private void pictureBox13_4_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox13_4, label2);
+        }
+
+        private void pictureBox13_5_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox13_5, label2);
+        }
+
+        private void pictureBox13_6_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox13_6, label2);
+        }
+
+        private void pictureBox13_7_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox13_7, label2);
+        }
+
+        private void pictureBox13_8_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox13_8, label2);
+        }
+
+        private void pictureBox13_9_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox13_9, label2);
+        }
+
+        private void pictureBox13_10_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox13_10, label2);
+        }
+
+        private void pictureBox13_11_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox13_11, label2);
+        }
+
+        private void pictureBox13_12_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox13_12, label2);
+        }
+
+        private void pictureBox13_13_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox13_13, label2);
+        }
+
+        private void pictureBox13_14_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox13_14, label2);
+        }
+
+        private void pictureBox14_0_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox14_0, label2);
+        }
+
+        private void pictureBox14_1_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox14_1, label2);
+        }
+
+        private void pictureBox14_2_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox14_2, label2);
+        }
+
+        private void pictureBox14_3_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox14_3, label2);
+        }
+
+        private void pictureBox14_4_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox14_4, label2);
+        }
+
+        private void pictureBox14_5_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox14_5, label2);
+        }
+
+        private void pictureBox14_6_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox14_6, label2);
+        }
+
+        private void pictureBox14_7_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox14_7, label2);
+        }
+
+        private void pictureBox14_8_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox14_8, label2);
+        }
+
+        private void pictureBox14_9_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox14_9, label2);
+        }
+
+        private void pictureBox14_10_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox14_10, label2);
+        }
+
+        private void pictureBox14_11_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox14_11, label2);
+        }
+
+        private void pictureBox14_12_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox14_12, label2);
+        }
+
+        private void pictureBox14_13_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox14_13, label2);
+        }
+
+        private void pictureBox14_14_Click(object sender, EventArgs e)
+        {
+            t++;
+            changeimg(pictureBox14_14, label2);
+        }
+
 
 
 

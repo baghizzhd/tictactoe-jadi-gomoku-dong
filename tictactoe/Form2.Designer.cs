@@ -39,7 +39,7 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.Lime;
-            this.button1.Location = new System.Drawing.Point(171, 196);
+            this.button1.Location = new System.Drawing.Point(88, 218);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(114, 31);
             this.button1.TabIndex = 0;
@@ -53,7 +53,7 @@
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.Red;
-            this.button2.Location = new System.Drawing.Point(371, 196);
+            this.button2.Location = new System.Drawing.Point(436, 218);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(114, 31);
             this.button2.TabIndex = 0;
@@ -65,11 +65,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Monotype Corsiva", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label1.Location = new System.Drawing.Point(223, 128);
+            this.label1.Font = new System.Drawing.Font("MV Boli", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(191, 166);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(223, 45);
+            this.label1.Size = new System.Drawing.Size(282, 49);
             this.label1.TabIndex = 1;
             this.label1.Text = "Player A won!";
             // 
@@ -77,9 +77,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::tictactoe.Properties.Resources.game_over;
+            this.BackgroundImage = global::tictactoe.Properties.Resources._500_F_220010016_U1dgYIpoNtMRBF45nkAm94tbrSdHMlWh;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(677, 261);
+            this.ClientSize = new System.Drawing.Size(628, 261);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);

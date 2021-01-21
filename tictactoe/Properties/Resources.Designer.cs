@@ -83,6 +83,16 @@ namespace tictactoe.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _500_F_220010016_U1dgYIpoNtMRBF45nkAm94tbrSdHMlWh {
+            get {
+                object obj = ResourceManager.GetObject("500_F_220010016_U1dgYIpoNtMRBF45nkAm94tbrSdHMlWh", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _6434697_blood_wallpaper {
             get {
                 object obj = ResourceManager.GetObject("6434697-blood-wallpaper", resourceCulture);

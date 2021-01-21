@@ -12,10 +12,10 @@ namespace tictactoe
 {
     public partial class Form1 : Form
     {
-        int[,] arr = new int[3, 3];
+        //int[,] arr = new int[3, 3];
         bool x = true; //A
         int t = 0;
-        public static int status = 0;
+       public static int status = 0;
         public Form1()
         {
             InitializeComponent();
@@ -25,25 +25,7 @@ namespace tictactoe
         {
             Application.Exit();
         }
-        private void changeimg(PictureBox px, Label l)
-        {
-            if (x == true)
-            {
-                px.Image = Image.FromFile(@"D:\assigment\tictactoe\tictactoe\Resources\6965728_preview.png");
-                x = false;
-                l.Text = gameform.name2;
-
-            }
-            else
-            {
-                px.Image = Image.FromFile(@"D:\assigment\tictactoe\tictactoe\Resources\circle-xxl.png");
-                x = true;
-                l.Text = gameform.name;
-
-            }
-            px.Enabled = false;
-
-        }
+       
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
@@ -1634,7 +1616,25 @@ namespace tictactoe
             changeimg(pictureBox14_14, label2);
             check();
         }
+        private void changeimg(PictureBox px, Label l)
+        {
+            if (x == true)
+            {
+                px.Image = Image.FromFile(@"D:\assigment\tictactoe\tictactoe\Resources\6965728_preview.png");
+                x = false;
+                l.Text = gameform.name2;
 
+            }
+            else
+            {
+                px.Image = Image.FromFile(@"D:\assigment\tictactoe\tictactoe\Resources\circle-xxl.png");
+                x = true;
+                l.Text = gameform.name;
+
+            }
+            px.Enabled = false;
+
+        }
 
         private void check()
         {

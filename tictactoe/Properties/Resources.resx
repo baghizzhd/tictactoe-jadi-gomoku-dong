@@ -127,10 +127,13 @@
   <data name="6434697-blood-wallpaper" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\6434697-blood-wallpaper.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="1234RSCAB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1234RSCAB.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="438056-blood-skull-black-red-748x421" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\438056-blood-skull-black-red-748x421.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="1234RSCAB" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1234RSCAB.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="U79ncgH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\U79ncgH.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
